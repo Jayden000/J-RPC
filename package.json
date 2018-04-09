@@ -1,0 +1,15 @@
+{
+  "name": "j-rpc",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jayden E.",
+  "license": "ISC",
+  "dependencies": {
+    "discord-rpc": "^3.0.0-beta.10",
+    "fancy-log": "^1.3.2"
+  }
+}

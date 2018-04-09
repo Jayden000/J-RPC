@@ -1,0 +1,12 @@
+//When making an app on discordapp.com/developers/applications the name of that app will be your 1st title.. Also to add the image scroll down to "Rich Presnce Assets"
+//Then name the name and put the name of image in "largeImageKey"
+{
+  "discordappid" : "Make an application on discordapp.com/developers/applications/, put appID here",
+  "rpcinfo" : {
+    "details":"Title here",
+    "state":"Subtitle Here",
+    "largeImageKey":"Put name of Rich Presence Asset image here",
+    "largeImageText":"Name of text when hovered over the image"
+  }
+
+}
