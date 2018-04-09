@@ -36,3 +36,5 @@ largeImageKey: This is the name you gave your image asset before ![Alt text](htt
 
 largeImageText: Name of text when hovered over the image
 
+Basically this is done for everything the only thing left is to go into cmd in the (J-RPC) folder and type  npm install wait for that to finish and then type node . And boom J-RPC is up and running. Make sure to keep CMD up :D.. If any issues or questions please DM: Jayden#0003
+
