@@ -1,1 +1,1 @@
-![J-RPC](https://imgur.com/a/wMxPI)
+[J-RPC](https://imgur.com/a/wMxPI)
