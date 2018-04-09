@@ -28,6 +28,11 @@ Let's go over the config
 discordappid: That is your application ID (Client ID), in your discord dev site application ![Alt text](https://jayden.went-to-the-gucci.store/96b5e85f.png "Oof")
 
 details: Title here,
+
 state: Subtitle Here,
+
 largeImageKey: This is the name you gave your image asset before ![Alt text](https://jayden.went-to-the-gucci.store/11e668e7.png "Oof")
+
+
 largeImageText: Name of text when hovered over the image
+
