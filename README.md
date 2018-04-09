@@ -1,1 +1,1 @@
-[J-RPC](https://imgur.com/a/wMxPI)
+[screenshot](https://imgur.com/a/wMxPI)
