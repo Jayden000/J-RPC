@@ -1,5 +1,5 @@
 {
-  "discordappid" : "Make an application on discordapp.com/developers/applications/, put appID here",
+  "discordappid" : "Make an application on discordapp.com/developers/applications/ put client ID here",
   "rpcinfo" : {
     "details":"Title here",
     "state":"Subtitle Here",
