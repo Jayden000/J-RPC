@@ -1,3 +1,4 @@
+//Testing
 const { Client }  = require("discord-rpc");
 const config = require("./config.json");
 
