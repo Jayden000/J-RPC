@@ -1,3 +1,1 @@
-J-RPC
-
-Readme here soontm
+this project is archived and won't be updated or maintained.
