@@ -2,7 +2,7 @@ const { Client } = require("discord-rpc");
 const config = require("./config.json");
 
 const rpc = new Client({ transport: "ipc" });
-let clientId = "509135915482873856";
+let clientId = `${config.discordappid}`;
 
 const setRPC = () => {
   global.current_game = config.rpcinfo;
