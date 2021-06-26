@@ -1,9 +1,10 @@
 {
-  "rpcinfo" : {
-    "details":"Title here",
-    "state":"Subtitle Here",
-    "largeImageKey":"Put name of Rich Presence Asset image here",
-    "largeImageText":"Name of text when hovered over the image"
+  "discordappid": "discord dev app id here",
+  "rpcinfo": {
+    "details": "title",
+    "state": "description here",
+    "largeImageKey": "large rpc asset",
+    "largeImageText": "large text ",
+    "buttons": [{ "label": "label here", "url": "url here" }]
   }
-
 }
